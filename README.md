@@ -1,12 +1,12 @@
 <div>
+<div>
     <a href="https://my-personal-website-86sn2t7js-wesleycalazans.vercel.app">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=wesleytyber&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"
-            style="max-width:100%;">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleytyber&amp;layout=compact&amp;langs_count=7&amp;theme=dracula"
-            style="max-width:100%;">
+        src="https://github-readme-stats.vercel.app/api?username=wesleytyber&amp;show_icons=true&amp;include_all_commits=true&amp;text_color=FFFFFF&amp;bg_color=000000&amp;title_color=94b4a4&amp;langs_count=8&amp;layout=compact&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" 
+        style="max-width:100%;">
     </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleytyber&amp;text_color=FFFFFF&amp;bg_color=000000&amp;title_color=94b4a4&amp;langs_count=8&amp;layout=compact&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" 
+    style="max-width:100%;">
 </div>
 <a href="https://github.com/wesleytyber">
     <div>
@@ -41,3 +41,10 @@
                 data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
                 style="max-width:100%;"></a>
 </div>
+<div>
+    <img src="https://komarev.com/ghpvc/?username=wesleytyber&color=green" alt="wesleytyber" /> 
+</div>
+</div>
+
+
+
