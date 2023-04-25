@@ -9,27 +9,6 @@
     style="max-width:100%;">
 </div>
 <a href="https://github.com/wesleytyber">
-    <div>
-        <br>
-        <img align="center" alt="Wesleytyber-Js" height="30" width="40"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-            style="max-width:100%;">
-        <img align="center" alt="Wesleytyber-Ts" height="30" width="40"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-            style="max-width:100%;">
-        <img align="center" alt="Wesleytyber-React" height="30" width="40"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-            style="max-width:100%;">
-        <img align="center" alt="Wesleytyber-HTML" height="30" width="40"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-            style="max-width:100%;">
-        <img align="center" alt="Wesleytyber-CSS" height="30" width="40"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-            style="max-width:100%;">
-        <img align="center" alt="Wesleytyber-Nextjs" height="30" width="40"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
-            style="max-width:100%;">
-    </div>
 </a>
 <div><a href="https://github.com/wesleytyber">
         <a href="https://instagram.com/wesleyczans" rel="nofollow"><img
